@@ -5,5 +5,6 @@ test
 
 site url: http://www.test.com/
 
-name: daniel
+name: daniel zhang
 age:  1
+city: beijing
